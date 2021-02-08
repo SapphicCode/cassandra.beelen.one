@@ -1,0 +1,10 @@
+baseURL: https://cassandra.beelen.one
+languageCode: en-us
+title: Cassandra's Blog
+theme: noteworthy
+
+# enableGitInfo: yes
+enableEmoji: yes
+
+params:
+  github: https://github.com/SapphicCode
