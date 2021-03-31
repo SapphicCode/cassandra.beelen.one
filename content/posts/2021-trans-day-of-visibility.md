@@ -3,6 +3,10 @@ title: "Trans Day of Visibility, or me coming out"
 author: Cassandra
 date: 2021-03-31T15:06:45+02:00
 draft: false
+tags:
+  - Personal
+  - Transgender
+  - Multiplicity
 ---
 
 There's not much point in me hiding it anymore. Remember that [trauma that I referenced]({{< ref "posts/../hi-again.md" >}}) last post?
