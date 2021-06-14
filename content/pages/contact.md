@@ -11,7 +11,8 @@ This page is dedicated to verifying myself on other platforms. So, without furth
 
 - [GitHub](https://github.com/Pandentia)
 - [age](https://github.com/FiloSottile/age) encryption key: `age1y5fd8v5mv0720futu3h4s52mhn3hakjc8a3p8z3gqxpa4dj6sp0sw7gzw0`
-- GPG fingerprint: `BDFC062F3897235495AF49034E7BE3BB14CB524D` on keyserver `keys.openpgp.org`
+- GPG fingerprint: `BDFC062F3897235495AF49034E7BE3BB14CB524D` on keyserver `keys.openpgp.org`, [please don't use GPG if you can at all avoid it.](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html)
 - Email: Replace the first `.` in the domain name with an `@`.
+- Telegram: [@SapphicCode](https://t.me/SapphicCode)
 
 You may be surprised by the absence of social media on this page, and on my blog in general (no share buttons). This is not a mistake, and is a stance I may write more about in future.
